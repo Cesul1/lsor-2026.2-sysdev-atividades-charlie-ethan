@@ -17,4 +17,3 @@ Critérios de Avaliação
     *Executou os testes de ping em camadas e diagnosticou a camada de uma *falha.
     *Comparou NAT e Bridge com evidências.
     *Documentou no formato de 7 passos.
-
