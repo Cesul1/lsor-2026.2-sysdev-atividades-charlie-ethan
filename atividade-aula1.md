@@ -13,8 +13,8 @@ Após o reinício completo da máquina virtual:
 
 Respostas:
 
-    1. ![Login realizado sem problemas.](/imagens/aula1/aula1_login-acessado.png)
+1. ![Login realizado sem problemas.](/imagens/aula1/aula1_login-acessado.png)
 
-    2. ![Comando utilizado com sucesso](/imagens/aula1/aula1_comando-sudo.png)
+2. ![Comando utilizado com sucesso](/imagens/aula1/aula1_comando-sudo.png)
 
-    3. ![Senha colocada no sudo com sucesso](/imagens/aula1/aula1_comando-sudo.png)
+3. ![Senha colocada no sudo com sucesso](/imagens/aula1/aula1_comando-sudo.png)

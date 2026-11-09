@@ -14,17 +14,17 @@ Para consolidar as competências adquiridas, cada aluno ou grupo deverá executa
 
 Respostas:
 
-    1. ![financeiro criado](/imagens/aula2/aula2_grupo-financeiro.png)
+1. ![financeiro criado](/imagens/aula2/aula2_grupo-financeiro.png)
 
-    2. ![cicrano e beltrano associados](/imagens/aula2/aula2_acossiacao-cicrano-beltrano.png)
+2. ![cicrano e beltrano associados](/imagens/aula2/aula2_acossiacao-cicrano-beltrano.png)
 
-    3. ![/srv/financeiro criada](/imagens/aula2/aula2_pasta-srv-financeiro.png)
+3. ![/srv/financeiro criada](/imagens/aula2/aula2_pasta-srv-financeiro.png)
 
-    4. ![permissões feitas](/imagens/aula2/aula2_permissoes-de-acesso.png)
+4. ![permissões feitas](/imagens/aula2/aula2_permissoes-de-acesso.png)
 
-    5. 
-        a. ![teste do cicrano](/imagens/aula2/aula2_cicrano-teste.png)
+5. 
+    a. ![teste do cicrano](/imagens/aula2/aula2_cicrano-teste.png)
 
-        b. ![teste do fulano](/imagens/aula2/aula2_fulano-teste.png)
+    b. ![teste do fulano](/imagens/aula2/aula2_fulano-teste.png)
 
-        c. ![teste do novato](/imagens/aula2/aula2_novato-teste.png)
+    c. ![teste do novato](/imagens/aula2/aula2_novato-teste.png)
