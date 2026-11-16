@@ -1,4 +1,13 @@
+Aula 02: Administração de Usuários, Grupos e Permissões no Linux
+
+1) Charlie Ethan dos Santos Ugá Luna, 2024327037, 913-A, 09/11/2026
+2) 
+3) RAM: 1.5 GB, HardDisk: 32 GB, 1 processafor. NAT, IP: 127.0.0.1/8
 Exercício Prático de Fixação
+4) 
+5) 
+6) 
+7) 
 
 Para consolidar as competências adquiridas, cada aluno ou grupo deverá executar de forma autônoma a seguinte tarefa:
 
