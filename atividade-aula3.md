@@ -2,7 +2,7 @@ Aula 03: Interfaces e Endereçamento de Rede
 
 Relatorio:
 1) Charlie Ethan dos Santos Ugá Luna, 2024327037, 913-A, 09/11/2026
-2) 
+2) conseguir ver e identificar IP, mascara de sub-rede, MAC, gateway e DNS, usando dos principais comandos para identificar IP, Link e route, diferenciar o nat e Bridge, testar a conectividade com o ping e fazer a doocumentação.
 3) RAM: 1.5 GB, HardDisk: 32 GB, 1 processador. NAT e PLaca de Ponte, IP: 127.0.0.1/8
 4) 
 5)  A. 
