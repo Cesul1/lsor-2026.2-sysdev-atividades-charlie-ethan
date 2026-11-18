@@ -1,11 +1,25 @@
 Aula 02: Administração de Usuários, Grupos e Permissões no Linux
 
-1) Charlie Ethan dos Santos Ugá Luna, 2024327037, 913-A, 09/11/2026
-2) 
-3) RAM: 1.5 GB, HardDisk: 32 GB, 1 processafor. NAT, IP: 127.0.0.1/8
+1) Charlie Ethan dos Santos Ugá Luna, 2024327037, 913-A, 29/10/2026
+2) nessa
+3) RAM: 1.5 GB, HardDisk: 32 GB, 1 processador. NAT, IP: 127.0.0.1/8
 Exercício Prático de Fixação
 4) 
-5) 
+5)  A. ![financeiro criado](/imagens/aula2/aula2_grupo-financeiro.png)
+
+    B. ![cicrano e beltrano associados](/imagens/aula2/aula2_acossiacao-cicrano-beltrano.png)
+
+    C. ![/srv/financeiro criada](/imagens/aula2/aula2_pasta-srv-financeiro.png)
+
+    D. ![permissões feitas](/imagens/aula2/aula2_permissoes-de-acesso.png)
+
+    E. 
+        a. ![teste do cicrano](/imagens/aula2/aula2_cicrano-teste.png)
+
+        b. ![teste do fulano](/imagens/aula2/aula2_fulano-teste.png)
+
+        c. ![teste do novato](/imagens/aula2/aula2_novato-teste.png)
+
 6) 
 7) 
 
@@ -22,18 +36,3 @@ Para consolidar as competências adquiridas, cada aluno ou grupo deverá executa
 
 
 Respostas:
-
-1. ![financeiro criado](/imagens/aula2/aula2_grupo-financeiro.png)
-
-2. ![cicrano e beltrano associados](/imagens/aula2/aula2_acossiacao-cicrano-beltrano.png)
-
-3. ![/srv/financeiro criada](/imagens/aula2/aula2_pasta-srv-financeiro.png)
-
-4. ![permissões feitas](/imagens/aula2/aula2_permissoes-de-acesso.png)
-
-5. 
-    a. ![teste do cicrano](/imagens/aula2/aula2_cicrano-teste.png)
-
-    b. ![teste do fulano](/imagens/aula2/aula2_fulano-teste.png)
-
-    c. ![teste do novato](/imagens/aula2/aula2_novato-teste.png)
