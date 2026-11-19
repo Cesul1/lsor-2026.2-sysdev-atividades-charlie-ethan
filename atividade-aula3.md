@@ -4,7 +4,7 @@ Relatorio:
 1) Charlie Ethan dos Santos Ugá Luna, 2024327037, 913-A, 09/11/2026
 2) conseguir ver e identificar IP, mascara de sub-rede, MAC, gateway e DNS, usando dos principais comandos para identificar IP, Link e route, diferenciar o nat e Bridge, testar a conectividade com o ping e fazer a doocumentação.
 3) RAM: 1.5 GB, HardDisk: 32 GB, 1 processador. NAT e PLaca de Ponte, IP: 127.0.0.1/8
-4) 
+4) ip addr show, ip link, ip route, netplan status, ping -c 4 127.0.0.1, ping -c 4 10.0.2.15, ping -c 4 10.0.2.2, ping -c 4 8.8.8.8, ping -c 4 google.com, sudo apt update, sudo apt install -y traceroute, traceroute 8.8.8.8, ip addr show, ip route, ping -c 4 8.8.8.8, ipconfig /all, 
 5)  A. 
         a. ![IP addr, IP link e IP route identificados](/imagens/aula3/aula3_passo1-ip.png)
         b. ![Netplan status feito](/imagens/aula3/aula3_passo1-netplan-status.png)
@@ -27,8 +27,8 @@ Relatorio:
     E. 
         a. ![powershell do windows](/imagens/aula3/aula3_passo5-powershell1.png)
         b. ![powershell do windows continuação](/imagens/aula3/aula3_passo5-powershell2.png)
-6) 
-7) 
+6) sem problemas relatados
+7) Nessa aula foi aprendido a identificar todas as configurações de rede da vm. foi aprendido a mudar de NAT e bridge sabendo suas diferenças, e ao final aprender a documentar e relatar sobre a aula
 
 
 Relatório (Modelo de 7 Passos)
